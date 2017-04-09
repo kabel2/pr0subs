@@ -1,0 +1,7 @@
+/data/*
+/logs
+/php/config.php
+/vendor/*
+/composer.lock
+.idea
+nbprojects
